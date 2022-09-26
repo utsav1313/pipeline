@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: manishaverma/deployk8
+      - image: us1313/test1
         name: flaskdemo
         resources: {}
 status: {}
